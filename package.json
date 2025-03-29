@@ -16,7 +16,7 @@
     "migrate:check": "turbo migrate:check",
     "changeset": "changeset",
     "version": "changeset version",
-    "tag-release": "changeset tag"
+    "tag-release": "changeset tag && git push --follow-tags"
   },
   "devDependencies": {
     "@biomejs/biome": "^1.9.4",
