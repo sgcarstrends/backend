@@ -1,5 +1,28 @@
 # @sgcarstrends/updater
 
+## 2.4.0
+
+### Minor Changes
+
+- [#187](https://github.com/sgcarstrends/backend/pull/187) [`6390ee8`](https://github.com/sgcarstrends/backend/commit/6390ee83e871b46c80ecb289979dd9d2e029bb1b) Thanks [@ruchernchong](https://github.com/ruchernchong)! - Invalidate cache on successful database updates
+
+### Patch Changes
+
+- [#189](https://github.com/sgcarstrends/backend/pull/189) [`037218b`](https://github.com/sgcarstrends/backend/commit/037218bafc03879a2cb2f2b767f6a42602cd417c) Thanks [@ruchernchong](https://github.com/ruchernchong)! - Update reshare of page post to personal account without commentary on LinkedIn
+
+- [#192](https://github.com/sgcarstrends/backend/pull/192) [`56e0ce1`](https://github.com/sgcarstrends/backend/commit/56e0ce10ccd4b9703c8671320f2640c015400aa6) Thanks [@ruchernchong](https://github.com/ruchernchong)! - Add ability to refresh LinkedIn token before auto posting. This is to prevent token expired related errors
+
+- [#200](https://github.com/sgcarstrends/backend/pull/200) [`46659ec`](https://github.com/sgcarstrends/backend/commit/46659ec862fcfa052e561c7fe0d10db66b96b7f1) Thanks [@ruchernchong](https://github.com/ruchernchong)! - Merge updating of COE and COE PQP under the COE category
+
+- [#183](https://github.com/sgcarstrends/backend/pull/183) [`467e9d2`](https://github.com/sgcarstrends/backend/commit/467e9d25f1d8e0ac4af13ddbd3e2b022363c086f) Thanks [@ruchernchong](https://github.com/ruchernchong)! - Separate workflows into their own respective categories
+
+- [#198](https://github.com/sgcarstrends/backend/pull/198) [`634ebfd`](https://github.com/sgcarstrends/backend/commit/634ebfddb7310a9b0a0c10f599218de82ddafa24) Thanks [@ruchernchong](https://github.com/ruchernchong)! - Separate and customise message and links for cars and COE updates respectively
+
+- Updated dependencies [[`6390ee8`](https://github.com/sgcarstrends/backend/commit/6390ee83e871b46c80ecb289979dd9d2e029bb1b)]:
+  - @sgcarstrends/schema@0.1.0
+  - @sgcarstrends/types@0.1.0
+  - @sgcarstrends/utils@0.1.0
+
 ## 2.3.3
 
 ### Patch Changes
