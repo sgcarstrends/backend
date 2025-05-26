@@ -1,5 +1,20 @@
 # @sgcarstrends/api
 
+## 1.6.0
+
+### Minor Changes
+
+- [#187](https://github.com/sgcarstrends/backend/pull/187) [`6390ee8`](https://github.com/sgcarstrends/backend/commit/6390ee83e871b46c80ecb289979dd9d2e029bb1b) Thanks [@ruchernchong](https://github.com/ruchernchong)! - Invalidate cache on successful database updates
+
+### Patch Changes
+
+- [#202](https://github.com/sgcarstrends/backend/pull/202) [`cac0ee1`](https://github.com/sgcarstrends/backend/commit/cac0ee13ca27f7cd98d4b6dc1aa3433ca6c6cdef) Thanks [@ruchernchong](https://github.com/ruchernchong)! - Update SST deployer
+
+- Updated dependencies [[`6390ee8`](https://github.com/sgcarstrends/backend/commit/6390ee83e871b46c80ecb289979dd9d2e029bb1b)]:
+  - @sgcarstrends/schema@0.1.0
+  - @sgcarstrends/types@0.1.0
+  - @sgcarstrends/utils@0.1.0
+
 ## 1.5.2
 
 ### Patch Changes

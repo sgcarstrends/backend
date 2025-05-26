@@ -1,5 +1,12 @@
 # @sgcarstrends/utils
 
+## 0.1.0
+
+### Patch Changes
+
+- Updated dependencies []:
+  - @sgcarstrends/types@0.1.0
+
 ## 0.0.3
 
 ### Patch Changes
