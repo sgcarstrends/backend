@@ -1,5 +1,17 @@
 # @sgcarstrends/api
 
+## 1.7.0
+
+### Minor Changes
+
+- [#206](https://github.com/sgcarstrends/backend/pull/206) [`f38fe06`](https://github.com/sgcarstrends/backend/commit/f38fe0641ee1356fd589385b7d7964914bcb9c30) Thanks [@ruchernchong](https://github.com/ruchernchong)! - Add compare metrics endpoint for cars
+
+- [#210](https://github.com/sgcarstrends/backend/pull/210) [`115d699`](https://github.com/sgcarstrends/backend/commit/115d69906b790074319aa304cce6739d87f419d0) Thanks [@ruchernchong](https://github.com/ruchernchong)! - Add API endpoint to get the top fuel and vehicle types for a month
+
+### Patch Changes
+
+- [#208](https://github.com/sgcarstrends/backend/pull/208) [`e829e69`](https://github.com/sgcarstrends/backend/commit/e829e695bb9555fc9160b3b4667e61d844c0df0b) Thanks [@ruchernchong](https://github.com/ruchernchong)! - Setup documentation using OpenAPI and Scalar
+
 ## 1.6.0
 
 ### Minor Changes
