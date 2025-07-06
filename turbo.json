@@ -5,7 +5,7 @@
   "tasks": {
     "build": {
       "dependsOn": ["^build"],
-      "outputs": ["dist/**"]
+      "outputs": ["dist/**", ".next/**", "!.next/cache/**"]
     },
     "lint": {
       "inputs": ["src/**/*.ts", "src/**/*.tsx"],
@@ -35,6 +35,10 @@
     "migrate:check": {
       "inputs": ["migrations/**/*.sql"],
       "outputs": []
+    },
+    "test:e2e": {
+      "inputs": ["src/**/*.ts", "src/**/*.tsx", "tests/**/*.ts"],
+      "outputs": ["test-results/**", "playwright-report/**"]
     }
   }
 }
